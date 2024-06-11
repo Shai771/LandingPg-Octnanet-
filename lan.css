@@ -1,0 +1,100 @@
+body{
+    background-color:rgb(11, 34, 13);
+     color: aliceblue;
+     
+   
+     
+
+}
+nav{
+    margin:-8px;
+    padding:0px;
+    background-color:rgb(25, 59, 28);
+    height:70px;
+    display:grid;
+    grid-template-columns: 75px 30px;
+    
+}
+.webvise
+{
+position: relative;
+top:20px;
+width:100px;
+position: relative;
+top: 18px;
+left: -11px;
+
+}
+
+.container
+{
+    display:grid;
+    grid-template-columns: 992px 396px;
+    grid-column-gap:108px;
+    position:relative;
+    top:94px;
+}
+
+.content
+{
+    font-size: 20px;
+}
+
+.input
+{
+    display:grid;
+    grid-template-columns: 232px 232px;
+    grid-column-gap:40px;
+    width:617px;
+   
+}
+.submitcen
+{
+   
+    display: grid;
+    justify-content:center;
+    width: 544px;
+}
+
+.button1
+{   display:grid;
+    width:250px;
+    background-color:rgb(25, 59, 28); 
+    color:white;
+    font-size: 17px;
+    border-radius: 2px;
+    text-align:center;
+    height:29px;
+   
+   
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+}
+
+.image
+{
+    display:grid block;
+    justify-content:center;
+    
+    background-color: aliceblue;
+    width:363px;
+    position:relative;
+    bottom:23px;
+
+}
+
+footer
+{
+
+    height:61px;
+    background-color:rgb(25, 59, 28);
+    position: relative;
+    bottom: -100px;
+    margin: 0;
+    left: -7px;
+    width: 101%;
+}
